@@ -1,6 +1,6 @@
 # 🤼 Discussions
 
-Open discussions with mazipan, you can ask me questions, ask my opinions for something that you still not sure, share your ideas, share something new in the industry, maybe share some of your cool project also with me. 
+Open discussions with @mazipan, you can ask me questions, ask my opinions for something that you still not sure, share your ideas, share something new in the industry, maybe share some of your cool project also with me. 
 
 ## How to start new discussion
 
