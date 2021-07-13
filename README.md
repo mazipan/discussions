@@ -7,6 +7,5 @@ I also open with any non-technical discussions, about career, learning tricks, e
 
 - Go to [Discussions Tab](https://github.com/mazipan/discussions/discussions)
 - Click "Add New Discussion"
-- Add a label on your discussion
 
 ## Happy Discuss 🤩
